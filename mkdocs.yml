@@ -1,1 +1,7 @@
-site_name: My Docs
+site_name: Портфоліо Олексія Слинька
+
+nav:
+  - 'Головна': 'index.md'
+  - 'Про мене': 'about.md'
+  - 'Мої проекти': 'projects.md'
+  - 'Процес роботи': 'workflow.md'
